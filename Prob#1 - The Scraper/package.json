@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "puppeteer": "^3.2.0",
+    "xdom": "0.0.3",
+    "xmldom": "^0.3.0",
+    "xpath": "0.0.27"
+  }
+}
