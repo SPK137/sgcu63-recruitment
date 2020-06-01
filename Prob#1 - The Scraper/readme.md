@@ -1,6 +1,7 @@
 # Problem#1 - The Scraper
 
 ## Project Dependencies
+- node.js
 - puppeteer
 - xpath
 - xmldom
